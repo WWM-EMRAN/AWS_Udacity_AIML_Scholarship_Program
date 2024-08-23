@@ -1,0 +1,4 @@
+white golden retriever, border collie, gernal shepard | dog = dog-01 | y | z
+cat = cat-01
+ox= ox-01
+white golden retriever, border collie, gernal shepard | dog = dog-02 | y | z
