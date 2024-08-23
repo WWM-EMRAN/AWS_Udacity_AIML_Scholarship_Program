@@ -1,0 +1,17 @@
+
+
+
+Zip the contents of a folder:
+zip -r <zip file name> <directory name> 
+zip -r preprocessing.zip . 
+
+
+tar -czvf <tar file name> <directory name> 
+tar -czvf preprocessing.tar.gz .
+
+
+
+
+
+
+

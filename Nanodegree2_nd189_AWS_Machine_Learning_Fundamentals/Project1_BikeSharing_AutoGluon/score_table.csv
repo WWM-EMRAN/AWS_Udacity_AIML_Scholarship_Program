@@ -1,0 +1,4 @@
+model,WeightedEnsemble_L3,ExtraTrees_BAG_L1,LightGBM_BAG_L1/T2,score
+initial,default,default,default,1.80153
+add_features,default,default,default,0.5368
+hpo,"{'use_orig_features': False, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}","{'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True, 'use_child_oof': True}","{'use_orig_features': True, 'max_base_models': 25, 'max_base_models_per_type': 5, 'save_bag_folds': True}",0.49603

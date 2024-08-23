@@ -1,0 +1,33 @@
+Questions regarding Uploaded Image Classification:
+
+1. Did the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed? If not, report the differences in the classifications.
+
+Answer: Classification of the breed of dog in Dog_01.jpg to be the same breed 
+AlexNet 	= [Correct]		&	DOG/NOT_DOG-> dog 	& 	BREED-> german shepherd dog 
+RestNet 	= [Correct]		&	DOG/NOT_DOG-> dog 	& 	BREED-> german shepherd dog  
+VGG 		= [Correct]		&	DOG/NOT_DOG-> dog 	& 	BREED-> german shepherd dog 
+
+
+2. Did each of the three model architectures classify the breed of dog in Dog_01.jpg to be the same breed of dog as that model architecture classified Dog_02.jpg? If not, report the differences in the classifications.
+
+Answer: Classification of the breed of dog in Dog_01.jpg to be the same breed of dog as that model architecture classified Dog_02.jpg 
+AlexNet 	= [Correct|Correct]		&	DOG/NOT_DOG-> dog|dog 		& 	BREED-> german shepherd dog|german shepherd dog 
+RestNet 	= [Correct|Incorrect]	&	DOG/NOT_DOG-> dog|not_dog 	& 	BREED-> german shepherd dog|capuchin, ringtail, cebus capucinus
+VGG 		= [Correct|Correct]		&	DOG/NOT_DOG-> dog|dog 		& 	BREED-> german shepherd dog|german shepherd dog 
+
+
+3. Did the three model architectures correctly classify Animal_Name_01.jpg and Object_Name_01.jpg to not be dogs? If not, report the misclassifications.
+
+Answer: Classification of the Animal_Name_01.jpg (Cat_01.jpg) and Object_Name_01.jpg (Bucket_01.jpg) 
+AlexNet 	= [Correct|Correct]		&	CAT/BUCKET-> not_dog|not_dog 		& 	BREED-> tiger cat, cat|mailbag, postbag  
+RestNet 	= [Correct|Correct]		&	CAT/BUCKET-> not_dog|not_dog 		& 	BREED-> tiger cat, cat|mailbag, postbag   
+VGG 		= [Correct|Correct]		&	CAT/BUCKET-> not_dog|not_dog 		& 	BREED-> tiger cat, cat|bucket, pail  
+
+
+4. Based upon your answers for questions 1. - 3. above, select the model architecture that you feel did the best at classifying the four uploaded images. Describe why you selected that model architecture as the best on uploaded image classification.
+
+Answer: Based on the observation above from the uploaded images VGG should be the best choice. If the answers to the questions 1-3 are observed deeply, it can be seen that, 
+- RestNet failed to identify the DOG and its BREED for the rotated dog image, Dog_02.jpg [Q.2] 
+- AlexNet on the other hand did identified DOGs and their BREEDs correctly, but cannot correctly identified the BREED of NOG_DOG unknown object (Bucket_01.jpg). [Q.3]
+Thus VGG is the only architechture that identified all of the different types of animals/objects with their appropriate breeds/categories. 
+

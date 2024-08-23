@@ -1,0 +1,8 @@
+
+Project list: 
+---------------------------------------------------
+Project1_Predict_Bike_Sharing_Demand_with_AutoGluon 
+Project2_Developing_a_Handwritten_Digits_Classifier_with_PyTorch 
+Project3_Landmark_Classification_and_Tagging_for_Social_Media
+Project4_Build_a_ML_Workflow_for_Scones_Unlimited_on_AWS_Sagemaker 
+
