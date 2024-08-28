@@ -1,17 +1,22 @@
 # AWS AI & ML Scholarship 
-### Scholarship of Udacity nanodegree for: Phase 1 and Phase 2  
+### Scholarship (Phase 1 and Phase 2) for 2 Udacity nanodegrees and AWS AI/ML Scholarship Mentoring Program   
 
-### AWS AI & ML Scholarship (Scholarship 1)
+### AWS AI & ML Scholarship 1 (Phase 1)
 
 AWS AI & ML Scholarship (Scholarship 1) recipient for the nanodegree "AI Programming with Python" offered by Udacity (winter cohort 2023). 
 AWS has offered the scholarship as part of successfully competing in the "AWS Deep Racer" challenge. Annually, 2,000 student candidates are offered this scholarship worth $4,000 USD to complete the nanodegree. 
 The nanodegree involves developing Python programming, Deep Learning (DL) concepts, and applications. The Pytorch package has been used in image classification using the transformer and custom DL models.  
 
 
-### AWS AI & ML Scholarship 2
+### AWS AI & ML Scholarship 2 (Phase 2)
 
-AWS AI & ML Scholarship 2 (scholarship 2) recipient for the nanodegree "Machine Learning Fundamentals" offered by Udacity (2024). 
+AWS AI & ML Scholarship 2 (Scholarship 2) recipient for the nanodegree "AWS Machine Learning Fundamentals" offered by Udacity (2024). 
 AWS has offered the scholarship as part of completing the previous nanodegree ("AI Programming with Python") successfully provided under AWS AI & ML Scholarship 1. The top 500 participants from the previous nanodegree are selected for this scholarship (scholarship 2) to complete another nanodegree worth more than $4,000 USD to complete the nanodegree.
+
+
+### AWS AI & ML Scholarship Mentoring Program 
+
+This mentorship program has been offered for a year, as part of AWS AI/ML Scholarship 2 (Phase 2). A dedicated mentor from the AWS team has been assigned to have a 1-to-1 monthly meeting to help the student push forward to an AI/ML career. It includes guidelines for AWS certification and a free certification (practitioner) exam opportunity.
 
 
 
@@ -20,6 +25,7 @@ AWS has offered the scholarship as part of completing the previous nanodegree ("
 
 ### 1.1. AI Programming with Python: Program Details and Projects
 This nanodegree program is offered by Udacity and funded by the AWS AI & ML Scholarship - Phase 1 program. This includes a 5-month long nanodegree program with e-learning, connect sessions with the mentors and multiple project works.
+More details can be found here: https://www.udacity.com/course/ai-programming-python-nanodegree--nd089 
 
 Under this nanodegree I completed two (individual) projects on image analysis and classification with deep learning techniques using Pytorch library.
 
@@ -53,10 +59,11 @@ A CLI application for the classification of flower types using the custom CNN mo
 
 
 
-## 2. AWS AI & ML Scholarship (Scholarship 2): WS Machine Learning Fundamentals (by Udacity) 
+## 2. AWS AI & ML Scholarship (Scholarship 2): AWS Machine Learning Fundamentals (by Udacity) 
 
 ### 2.1. AWS AI & ML Scholarship (Scholarship 2): AWS Machine Learning Fundamentals
 This nanodegree program is offered by Udacity and funded by the AWS AI & ML Scholarship - Phase 2 program. This includes a 5-month long nanodegree program with e-learning, connect sessions with the mentors and multiple project works.
+More details can be found here: https://www.udacity.com/course/aws-machine-learning-fundamentals-nanodegree--nd189 
 
 The nanodegree involves the core concepts of Machine Learning (ML), Deep Learning (DL), Convolutional Neural Network (CNN), ML Workflow with AWS (preprocessing to deployment automation), and related optimisation techniques using AWS cloud platform.
 
@@ -87,5 +94,15 @@ This nanodegree includes 4 computer vision projects to be solved using Deep Lear
 - Project-2: Developing a Handwritten Digits Classifier with PyTorch: Using DL library PyTorch, popular MNIST hand-written digits classification using traditional deep neural network. 
 - Project-3: Landmark Classification and Tagging for Social Media: Using CNN and different transformers (AlexNet, ResNet, etc.), 50 different landmarks are classified. 
 - Project-4: Build a ML Workflow for Scones Unlimited on AWS Sagemaker: Familiarise with AWS resources and development of a simple ML workflow. Automation or scheduling of most of the ML steps starting from data preprocessing, model training, deployment and inference using both AWS systems and serverless setups.  
+
+
+## 3. AWS AI & ML Scholarship Mentoring Program 
+
+This mentorship program has been offered for a year, as part of AWS AI/ML Scholarship 2 (Phase 2). A dedicated mentor from the AWS team has been assigned to have a 1-to-1 monthly meeting to help the student push forward to an AI/ML career. It includes guidelines for AWS certification and a free certification (practitioner) exam opportunity.
+Under this opportunity, mentoring guidelines were received from a solution architect from AWS (US) for the certification exams, updates about what is going on inside AWS and details about AWS's latest services. 
+A free exam voucher is also received for the certification exam of "AWS Cloud Practitioners". 
+
+
+
 
 
